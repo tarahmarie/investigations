@@ -1,37 +1,9 @@
-
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 4.504 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Wed Aug 10 2022 10:00:32 GMT-0700 (PDT)
-* Source doc: Major Cyber Incident Investigations Board
------>
-
-
-
 # How to Stand Up a Major Cyber Incident Investigations Board
 
 
 ## A guide for independent organizations and state and local governments to develop a sustainable mechanism for investigating and drawing lessons-learned from cyber incidents both in the immediate aftermath of a cyber incident and long-term
 
 Victoria Ontiveros
-
- 
 
 Tarah Wheeler
 
@@ -48,11 +20,11 @@ We would like to thank Rob Knake for initiating this project and guiding it thro
 
 **Authors**
 
-**Adam Shostack: **Adam Shostack is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE. Adam also serves as an Affiliate Professor at the Paul G. Allen School of Computer Science and Engineering at the University of Washington.
-
-**Tarah Wheeler: **Tarah Wheeler is CEO of information security consultancy Red Queen Dynamics, and a Cyber Project Fellow at the Belfer Center. She is an International Security Fellow at New America and a US/UK Fulbright Scholar in Cyber Security. She is an Electronic Frontier Foundation advisory board member, as well as a contributor at the Washington Post, the Brookings Institution, and Foreign Policy Magazine. 
-
 **Victoria Ontiveros:** Victoria Ontiveros is a Master in Public Policy candidate at the Harvard Kennedy School of Government where she is focusing on how cybersecurity interacts with foreign policy issues. Her Policy Analysis Exercise at HKS explored how the U.S. can respond to China’s increasing investment in Africa’s telecommunications infrastructure development. 
+
+**Tarah Wheeler:** Tarah Wheeler is CEO of information security consultancy Red Queen Dynamics, and a Cyber Project Fellow at the Belfer Center. She is an International Security Fellow at New America and a US/UK Fulbright Scholar in Cyber Security. She is an Electronic Frontier Foundation advisory board member, as well as a contributor at the Washington Post, the Brookings Institution, and Foreign Policy Magazine. 
+
+**Adam Shostack:** Adam Shostack is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE. Adam also serves as an Affiliate Professor at the Paul G. Allen School of Computer Science and Engineering at the University of Washington.
 
 
 
