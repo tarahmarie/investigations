@@ -14,7 +14,7 @@ Adam Shostack
 
 # Acknowledgements
 
-We would like to thank Rob Knake for initiating this project and guiding it through the early phases during his time as a fellow at the Belfer Center. We would like to thank Bob Lord, Mark Montgomery, and Tatyana Bolt for their thoughtful feedback. Their comments helped clarify our thinking, and their experience with cyber incidents helped us make the guidance offered in this document actionable. Thank you to Lauren Zabierek for her support, encouragement, and feedback throughout the project. Lauren’s perspective and feedback pushed us to answer hard questions throughout the project’s development. We appreciate the insights Andrea Rebora offered on cyber incident response norms and practices. We also wish to thank all of the participants in the workshop Learning from Cyber Incidents, whose comments and discussion also informed this playbook.
+We would like to thank Rob Knake for initiating this project and guiding it through the early phases during his time as a fellow at the Belfer Center. We would like to thank Bob Lord, Mark Montgomery, and Tatyana Bolton for their thoughtful feedback. Their comments helped clarify our thinking, and their experience with cyber incidents helped us make the guidance offered in this document actionable. Thank you to Lauren Zabierek for her support, encouragement, and feedback throughout the project. Lauren’s perspective and feedback pushed us to answer hard questions throughout the project’s development. We appreciate the insights Andrea Rebora offered on cyber incident response norms and practices. We also wish to thank all of the participants in the workshop Learning from Cyber Incidents, whose comments and discussion also informed this playbook.
 
 
 
